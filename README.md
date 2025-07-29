@@ -1,5 +1,3 @@
-# sql-hospital-operationas-analysis
-An analysis of the medical records request process, focusing on  the relationship between staff experience, turnaround times, and SLA compliance to identify performance trends and bottlenecks.
 
 EXECUTIVE SUMMARY: An analysis of the medical records request process reveals that staff experience is the primary driver of operational efficiency. 
 Senior staff (Level 3) consistently outperform junior staff (Level 1) in both processing speed and SLA compliance. Key process inefficiencies were identified, with "Lab Report" requests showing the longest turnaround times and the "Review Failed" and "Other Error" stages being the primary source of rejections. Additionally, the data indicate a potential issue with internal stakeholder satisfaction, as "Admins" reported the lowest satisfaction scores among all requester types. These findings suggest that improvements can be made through targeted staff training and specific process reviews.
