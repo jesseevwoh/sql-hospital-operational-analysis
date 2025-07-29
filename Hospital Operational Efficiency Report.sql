@@ -220,7 +220,7 @@ WHERE   Staff_Rank <= 3;
 *The best performers within each level had more years of experience*/
 
 
-/*Question 8: Can we rank our staff based on their SLA compliance percentage?
+/*Question 8: How do staff rank based on their SLA compliance percentage?
 NOTE: Chose to skip this question as the project already provides a comprehensive
 *performance analysis through turnaround times and top-performer rankings.
 *This ranking would offer similar insights without adding significant new value.
