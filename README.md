@@ -1,4 +1,5 @@
 **Hospital Operational Efficiency Analysis**
+
 Presented By   Jesse Evwoh
 
 **EXECUTIVE SUMMARY:** An analysis of the medical records request process reveals that staff experience is the primary driver of operational efficiency. 
