@@ -1,5 +1,5 @@
 /********************************************************************************
-* PROJECT:      Optimizing Record Request Workflows Through Performance Analysis
+* PROJECT:      Hospital Operational Efficiency Analysis
 * AUTHOR:       Jesse Evwoh
 * DATE:         July 29, 2025
 * DESCRIPTION:  An analysis of the medical records request process, focusing on 
