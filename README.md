@@ -20,21 +20,21 @@ This analysis sought to answer the following key questions, taken directly from 
 
 **Key Findings**
 
-Staff Performance is Tied to Experience:
+**1. Staff Performance is Tied to Experience:**
 
 There is a direct relationship between a staff member's level/experience and their efficiency. Level 3 staff had the fastest average turnaround times (3 days) and the highest SLA compliance rate (93%).
 
 Within each staff level, employees with more years of experience consistently had higher success rates and were ranked as top performers.
 
 
-Identified Process Bottlenecks:
+**2. Identified Process Bottlenecks:**
 
 While "Billing" was the most common request type, "Lab Report" requests took significantly longer to process than any other type, representing a key inefficiency.
 
 The "Review Failed" and "Other Error" stages were the most frequent points of failure, accounting for the highest number of rejected requests.
 
 
-Internal Stakeholder Satisfaction Gaps:
+**3. Internal Stakeholder Satisfaction Gaps:**
 
 Internal requesters, specifically "Admins," reported the lowest average satisfaction scores, suggesting a potential area for improvement in the internal service experience.
 
