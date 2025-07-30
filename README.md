@@ -21,6 +21,7 @@ This analysis sought to answer the following key questions, taken directly from 
 **Key Findings**
 
 **1. Staff Performance is Tied to Experience:** 
+
 There is a direct relationship between a staff member's level/experience and their efficiency. Level 3 staff had the fastest average turnaround times (3 days) and the highest SLA compliance rate (93%).
 
 Within each staff level, employees with more years of experience consistently had higher success rates and were ranked as top performers.
